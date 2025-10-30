@@ -10,5 +10,11 @@ void say_hi()
 int main(int argc, char ** argv)
 {
     say_hi();
+
+    int a = 0;
+    int b = 2;
+    int c = a + b;
+
+    std::cout << c << std::endl;
     return 0;
 }
