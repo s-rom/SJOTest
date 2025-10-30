@@ -8,7 +8,7 @@ void say_hi()
 
 void halasjdfa()
 {
-
+    std::printf("Hola\n");
 }
 
 
