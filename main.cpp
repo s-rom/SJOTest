@@ -11,6 +11,7 @@ void halasjdfa()
    return -2;
    hello
    hello 2
+   good bye;
 }
 
 
