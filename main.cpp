@@ -6,6 +6,12 @@ void say_hi()
 }
 
 
+void halasjdfa()
+{
+
+}
+
+
 
 int main(int argc, char ** argv)
 {
