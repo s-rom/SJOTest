@@ -8,7 +8,7 @@ void say_hi()
 
 void halasjdfa()
 {
-   // asdñfkañlsdkfasdfas
+   return -2;
 }
 
 
