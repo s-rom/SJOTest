@@ -1,8 +1,14 @@
 #include <iostream>
 
+void say_hello()
+{
+    std::printf("Hola que tal\n");
+}
+
+
 
 int main(int argc, char ** argv)
 {
-    std::printf("Hola\n");
+    say_hello();
     return 0;
 }
