@@ -5,8 +5,7 @@ void say_hi()
     std::printf("Hola que tal\n");
 }
 
-
-void halasjdfa()
+asdfasdfasdasdfasdfvoid halasjdfa()
 {
    return -2;
    hello
