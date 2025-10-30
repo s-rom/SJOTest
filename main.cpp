@@ -9,6 +9,8 @@ void say_hi()
 void halasjdfa()
 {
    return -2;
+   hello
+   
 }
 
 
