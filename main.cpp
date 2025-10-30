@@ -1,6 +1,6 @@
 #include <iostream>
 
-void say_hello()
+void say_hi()
 {
     std::printf("Hola que tal\n");
 }
@@ -9,6 +9,6 @@ void say_hello()
 
 int main(int argc, char ** argv)
 {
-    say_hello();
+    say_hi();
     return 0;
 }
